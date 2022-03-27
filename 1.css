@@ -1,0 +1,190 @@
+
+body
+{
+    text-align: center;
+    margin: 0;
+}
+
+.top-container
+{
+    background-color: #EAF6F6;
+    position: relative;
+    top: -10px;
+    width: 100%;
+    padding-top: 50px;
+}
+
+h1
+{
+    color:#66BFBF;
+    font-size:5.625rem;
+    margin-top: 200px;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    line-height: 0.75;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+
+.top_cloud
+{
+    position: absolute;
+    top:50px;
+    right:200px;
+
+}
+
+.bottom_cloud
+{
+    position: absolute;
+    left:170px;
+}
+
+.mountain
+{
+    margin: auto;
+}
+
+.profile
+{
+    width: 200px;
+    height: 200px;
+    margin-top: 60px;
+    margin-bottom: 35px;
+}
+
+.p1
+{
+    width:300px;
+    margin: auto;
+    color: #40514E;
+    line-height: 1.5;
+}
+
+hr
+{
+    margin: 80px auto 80px auto;
+    width: 30px;
+    color: lightgray;
+    border:5px dotted;
+    border-bottom: 0px;
+    
+}
+
+h3
+{
+    color:#11999E;
+}
+
+.coding_pic
+{
+    float:left; 
+    width:165px;
+    height: 165px;
+    margin-left: 300px;
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+.b1
+{
+    text-align: left;
+    margin: auto;
+    margin-top: 85px;
+    margin-right: 300px;
+    width: 500px;
+    line-height: 1.5;
+}
+
+.chillies
+{
+    width:165px;
+    height: 165px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 300px;
+    margin-left: 40px;
+}
+
+.b2
+{
+    text-align: left;
+    margin: auto;
+    margin-top: 110px;
+    margin-left: 300px;
+    width: 500px;
+    line-height: 1.5;
+}
+
+.p2
+{
+    width:40%;
+    margin: 40px auto;
+}
+
+.butt1
+{
+    color: white;
+    background-image: linear-gradient(to bottom,#11cdd4,#11999e);
+    text-align: center;
+    font-size: 15px;
+    border-radius: 8px;
+    padding: 8px;
+    border: none;
+}
+
+.butt1:hover
+{
+    color: #30e3cb;
+}
+
+.butt1:after
+{
+    color:#2bc4ad;
+}
+
+.lowest
+{
+    margin-top: 60px;
+    background-color: #66BFBF;
+    height: 130px;
+    color:#11999E;
+}
+
+.l1
+{
+    position: relative;
+    top:40px;
+    text-decoration: none;
+}
+
+.l2
+{
+    position: relative;
+    top:40px;
+    margin: 30px;
+    text-decoration: none;
+}
+
+.l3
+{
+    position: relative;
+    top:40px;
+    text-decoration: none;
+}
+
+.p3
+{
+    position: relative;
+    top:50px;
+    color: #EAF6F6;
+    font-size: 12px;
+}
